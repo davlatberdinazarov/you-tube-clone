@@ -4,7 +4,7 @@ import { FaSearch } from 'react-icons/fa'
 
 export default function Navbar() {
     return (
-        <nav className=' bg-black p-4 flex justify-between'>
+        <nav className=' bg-black p-5 flex justify-between'>
             <div>
                 <img width='45' src="/logo.png" alt="logopng" />
             </div>
