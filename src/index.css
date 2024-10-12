@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+
+/* styles.css or any other CSS file */
+.custom-gradient {
+  @apply bg-custom-gradient;
+}
+
+
 /* Custom Scrollbar Styles */
 ::-webkit-scrollbar {
     width: 2px;
